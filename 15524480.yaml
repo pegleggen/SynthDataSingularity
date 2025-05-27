@@ -1,0 +1,17 @@
+abstract: <p>This is just sharing the colab notebook</p>
+authors:
+- affiliation: readysaltedcode
+  family-names: Dr. Genevieve Smith-Nunes
+cff-version: 1.2.0
+date-released: '2025-05-27'
+doi: 10.5281/zenodo.15524480
+identifiers:
+- type: swh
+  value: swh:1:dir:cd6209399ebddf696a364d41f2c8d4ce43521224;origin=https://doi.org/10.5281/zenodo.15524479;visit=swh:1:snp:a9d714efeda6843764805f865ae391f058ee1558;anchor=swh:1:rel:2b765b10793bf2fe7590f659c4d49c7c6e1fe3ad;path=pegleggen-SynthDataSingularity-379b278
+license:
+- apache-2.0
+message: If you use this software, please cite it using the metadata from this file.
+repository-code: https://github.com/pegleggen/SynthDataSingularity/tree/share
+title: 'pegleggen/SynthDataSingularity: Sharing colab'
+type: software
+version: share
