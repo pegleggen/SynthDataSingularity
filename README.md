@@ -4,6 +4,8 @@
 
 This Google Colaboratory notebook provides an introduction and practical guide to generating synthetic data using the **MIT SynthDataVault library**. It demonstrates how to leverage this powerful tool in Python to create realistic synthetic datasets whilst preserving the statistical properties and privacy of original data.
 
+[DOI 10.5281/zenodo.15524479](https://doi.org/10.5281/zenodo.20284499)
+
 ## Table of Contents
 
   * [Overview](https://www.google.com/search?q=%23overview)
